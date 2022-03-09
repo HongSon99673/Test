@@ -1,0 +1,11 @@
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.AssemblyReference.cache
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.Form1.resources
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.Properties.Resources.resources
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.GenerateResource.cache
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.csproj.CoreCompileInputs.cache
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\bin\Debug\KiemTra.exe.config
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.exe
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.pdb
+C:\Users\hongs\Máy tính\Test\KiemTra\KiemTra\obj\Debug\KiemTra.LoginSuccess.resources

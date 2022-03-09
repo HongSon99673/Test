@@ -43,7 +43,7 @@ namespace KiemTra
             this.label1.Location = new System.Drawing.Point(201, 87);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 17);
+            this.label1.Size = new System.Drawing.Size(105, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên đăng nhập";
             // 
@@ -59,7 +59,7 @@ namespace KiemTra
             // textboxusername
             // 
             this.textboxusername.Location = new System.Drawing.Point(331, 87);
-            this.textboxusername.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textboxusername.Margin = new System.Windows.Forms.Padding(4);
             this.textboxusername.Name = "textboxusername";
             this.textboxusername.Size = new System.Drawing.Size(327, 22);
             this.textboxusername.TabIndex = 2;
@@ -69,7 +69,7 @@ namespace KiemTra
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(204, 126);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(69, 17);
+            this.label3.Size = new System.Drawing.Size(66, 17);
             this.label3.TabIndex = 3;
             this.label3.Text = "Mật khẩu";
             // 
@@ -83,13 +83,14 @@ namespace KiemTra
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(331, 174);
-            this.btnLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLogin.Location = new System.Drawing.Point(340, 173);
+            this.btnLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(100, 28);
             this.btnLogin.TabIndex = 5;
             this.btnLogin.Text = "Đăng nhập";
             this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // Form1
             // 
@@ -102,7 +103,7 @@ namespace KiemTra
             this.Controls.Add(this.textboxusername);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

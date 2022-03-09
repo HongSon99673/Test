@@ -16,7 +16,7 @@ namespace KiemTra
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new C());
+            Application.Run(new Form1());
         }
     }
 }

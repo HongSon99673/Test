@@ -16,5 +16,15 @@ namespace KiemTra
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            LoginSuccess sc = new LoginSuccess();
+            if (textboxmatkhau.Text == "admin" && textboxusername.Text == "admin")
+            {
+                Console.WriteLine("aaa");
+                sc.Show();
+            }
+        }
     }
 }
