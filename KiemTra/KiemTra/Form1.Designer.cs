@@ -45,7 +45,7 @@ namespace KiemTra
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(75, 17);
             this.label1.TabIndex = 0;
-            this.label1.Text = "UserName";
+            this.label1.Text = "Tên đăng nhập";
             // 
             // label2
             // 
@@ -71,7 +71,7 @@ namespace KiemTra
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(69, 17);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Password";
+            this.label3.Text = "Mật khẩu";
             // 
             // textboxmatkhau
             // 
@@ -88,7 +88,7 @@ namespace KiemTra
             this.btnLogin.Name = "btnLogin";
             this.btnLogin.Size = new System.Drawing.Size(100, 28);
             this.btnLogin.TabIndex = 5;
-            this.btnLogin.Text = "Login";
+            this.btnLogin.Text = "Đăng nhập";
             this.btnLogin.UseVisualStyleBackColor = true;
             // 
             // Form1
